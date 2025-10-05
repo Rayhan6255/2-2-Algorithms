@@ -1,5 +1,4 @@
 #include<iostream>
-#include<algorithm> // for std::swap
 using namespace std;
 
 int main(){
